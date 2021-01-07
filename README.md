@@ -26,19 +26,17 @@ BaekJoon_Algorithm_Study
 ## 시작 
 
 <ul> if
-	<li><a href=""> 두 수 비교하기 (No.1330) </a></li>
-	<li><a href=""> 시험 성적 (No.9498) </a></li>
-	<li><a href=""> 윤년 (No.2753) </a></li>
-	<li><a href=""> 사분면 구하기 (No.14681) </a></li>
-	<li><a href=""> 알람 시계 (No.2884) </a></li>
+	<li><a href="https://github.com/yeonga/BaekJoon_Algorithm_Study/blob/main/BaekJoon_Algorithm_Study/src/if_/Main_2753.java"> 윤년 (No.2753) </a></li>
+	<li><a href="https://github.com/yeonga/BaekJoon_Algorithm_Study/blob/main/BaekJoon_Algorithm_Study/src/if_/Main_14681.java"> 사분면 구하기 (No.14681) </a></li>
+	<li><a href="https://github.com/yeonga/BaekJoon_Algorithm_Study/blob/main/BaekJoon_Algorithm_Study/src/if_/Main_2884.java"> 알람 시계 (No.2884) </a></li>
 </ul>
 <ul> for
-	<li><a href=""> 구구단 (No.2739) </a></li>
-	<li><a href=""> A+B-3 (No.10950) </a></li>
-	<li><a href=""> 합 (No.8393) </a></li>
-	<li><a href=""> 빠른 A+B (No.14681) </a></li>
-	<li><a href=""> N찍기 (No.2741) </a></li>
-	<li><a href=""> 기찍N (No.2742) </a></li>
+	<li><a href="https://github.com/yeonga/BaekJoon_Algorithm_Study/blob/main/BaekJoon_Algorithm_Study/src/for_/Main_2739.java"> 구구단 (No.2739) </a></li>
+	<li><a href="https://github.com/yeonga/BaekJoon_Algorithm_Study/blob/main/BaekJoon_Algorithm_Study/src/for_/Main_10950.java"> A+B-3 (No.10950) </a></li>
+	<li><a href="https://github.com/yeonga/BaekJoon_Algorithm_Study/blob/main/BaekJoon_Algorithm_Study/src/for_/Main_8393.java"> 합 (No.8393) </a></li>
+	<li><a href="https://github.com/yeonga/BaekJoon_Algorithm_Study/blob/main/BaekJoon_Algorithm_Study/src/for_/Main_15552_Buffer_substring.java"> 빠른 A+B (No.15552) </a></li>
+	<li><a href="https://github.com/yeonga/BaekJoon_Algorithm_Study/blob/main/BaekJoon_Algorithm_Study/src/for_/Main_2741_Buffer.java"> N찍기 (No.2741) </a></li>
+	<li><a href="https://github.com/yeonga/BaekJoon_Algorithm_Study/blob/main/BaekJoon_Algorithm_Study/src/for_/Main_2742.java"> 기찍N (No.2742) </a></li>
 	<li><a href=""> A+B-7 (No.11021) </a></li>
 	<li><a href=""> A+B-8 (No.11022) </a></li>
 	<li><a href=""> 별 찍기-1 (No.2438) </a></li>
