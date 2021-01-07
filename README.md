@@ -24,3 +24,24 @@ BaekJoon_Algorithm_Study
 :girl: 피영아 <a href="https://github.com/yeonga"> @yeonga</a> <br><br><br>
 
 ## 시작 
+
+<ul> if
+	<li><a href=""> 두 수 비교하기 (No.1330) </a></li>
+	<li><a href=""> 시험 성적 (No.9498) </a></li>
+	<li><a href=""> 윤년 (No.2753) </a></li>
+	<li><a href=""> 사분면 구하기 (No.14681) </a></li>
+	<li><a href=""> 알람 시계 (No.2884) </a></li>
+</ul>
+<ul> for
+	<li><a href=""> 구구단 (No.2739) </a></li>
+	<li><a href=""> A+B-3 (No.10950) </a></li>
+	<li><a href=""> 합 (No.8393) </a></li>
+	<li><a href=""> 빠른 A+B (No.14681) </a></li>
+	<li><a href=""> N찍기 (No.2741) </a></li>
+	<li><a href=""> 기찍N (No.2742) </a></li>
+	<li><a href=""> A+B-7 (No.11021) </a></li>
+	<li><a href=""> A+B-8 (No.11022) </a></li>
+	<li><a href=""> 별 찍기-1 (No.2438) </a></li>
+	<li><a href=""> 별 찍기-2 (No.2439) </a></li>
+	<li><a href=""> X보다 작은 수 (No.10871) </a></li>
+</ul>
